@@ -17,6 +17,8 @@ This repo now has a working vertical slice for Michael's roadmap scope:
 
 ## Quick Start
 
+Dependency note: this project uses pygame-ce for Python 3.14 compatibility on macOS.
+
 1. Create and activate a Python environment.
 1. Install dependency:
 
